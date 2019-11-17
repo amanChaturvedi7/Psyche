@@ -1,0 +1,164 @@
+[
+	{
+	"id": "ia_questionnaire",
+	"questions": [
+		{
+			"question": "Do you feel preoccupied with the Internet (think about previous online activity or anticipate next online session)?"
+		},
+		{
+			"question": "Do you feel the need to use the Internet with increasing amounts of time in order to achieve satisfaction?"
+		},
+		{
+			"question": "Have you repeatedly made unsuccessful efforts to control, cut back, or stop Internet use?"
+		},
+		{
+			"question": "Do you feel restless, moody, depressed, or irritable when attempting to cut down or stop Internet use?"
+		},
+		{
+			"question": "Do you stay online longer than originally intended?"
+		},
+		{
+			"question": "Have you jeopardized or risked the loss of significant relationship, job, educational or career opportunity because of the Internet?"
+		},
+		{
+			"question": "Have you lied to family members, therapist, or others to conceal the extent of involvement with the Internet?"
+		},
+		{
+			"question": "Do you use the Internet as a way of escaping from problems or of relieving a dysphoric mood"
+		}
+		]
+	},
+	{
+	"id": "tm_questionnaire",
+	"questions": [
+		{
+			"question": "Do you make a list of the things that you have to do each day?"
+		},
+		{
+			"question": "Do you make a schedule of the activities that you have to do on work days?"
+		},
+		{
+			"question": "Do you plan the day before you start it?"
+		},
+		{
+			"question": "Do you write a set of goals for yourself for each day?"
+		},
+		{
+			"question": "Do you get a clear idea of what you want to accomplish during the next week?"
+		},
+		{
+			"question": "Do you spend some time each day for planning?"
+		},
+		{
+			"question": "How often do you set and honor priorities?"
+		},
+		{
+			"question": "Do you continue unprofitable routines or activities ?"
+		},
+		{
+			"question": "Do you believe that there is room for improvement in the way you manage your time?"
+		},
+		{
+			"question": "How often do you find yourself doing things which interfere with your college work simply because you hate to say No to people?"
+		},
+		{
+			"question": "Do you feel you are in charge of your own time, by and large?"
+		},
+		{
+			"question": "On an average class day do you spend more time with personal grooming than doing college work?"
+		},
+		{
+			"question": "How often do you make constructive use of time?"
+		},
+		{
+			"question": "How often are you working on a major assignment, a night before it’s due date?"
+		},
+		{
+			"question": "Do you set goals for the entire quarter?"
+		},
+		{
+			"question": "Do you keep your desk clear of everything other than what you are currently working on?"
+		},
+		{
+			"question": "When you have several things to do, how often do you think it is best to do a little bit of work on each one?"
+		},
+		{
+			"question": "Do you review your class notes, even when a test is not about to happen in near future?"
+		}
+		]
+	},
+	{
+	"id": "anx_questionnaire",
+	"questions": [
+		{
+			"question": "Do you worry about Results after an Examination?"
+		},
+		{
+			"question": "Do you panic before and during a test?"
+		},
+		{
+			"question": "Do you have visible signs of nervousness such as sweaty palms, shaky hands, and so on right before a test ?"
+		},
+		{
+			"question": "Do you have “butterflies” feeling in your stomach before a test?"
+		},
+		{
+			"question": "Do you feel nauseated before a test?"
+		},
+		{
+			"question": "Do you read through the test and feel that you do not know any of the answers?"
+		},
+		{
+			"question": "Does your mind goes blank during a test?"
+		},
+		{
+			"question": "Do you remember the blanked out information once you get out of the Testing Situations?"
+		},
+		{
+			"question": "Do you have trouble sleeping the night before a test?"
+		},
+		{
+			"question": "Do you make mistakes on easy questions or put answers in the wrong places?"
+		},
+		{
+			"question": "Do you have trouble choosing answers?"
+		},
+		{
+			"question": "Does thinking about your future career feel scary?"
+		},
+		{
+			"question": "Do you feel nervous when others ask you about your career plans?"
+		},
+		{
+			"question": "Do you feel confident when talking about your occupational goals?"
+		},
+		{
+			"question": "Do you feel worried when you make career-related decisions?"
+		},
+		{
+			"question": "Do you feel secure when you contemplate your career goals?"
+		},
+		{
+			"question": "Does thinking about your resume makes you feel stressed?"
+		},
+		{
+			"question": "Do you enjoy thinking about your future career?"
+		},
+		{
+			"question": "Do you worry about committing to a career choice?"
+		},
+		{
+			"question": "Do you worry about not being able to find a job?"
+		},
+		{
+			"question": "Do you feel nervous about choosing a career?"
+		},
+		{
+			"question": "Do you feel concerned about having limited employment opportunities?"
+		},
+		{
+			"question": "Do you feel afraid of being dissatisfied with your chosen career?"
+		}
+		]
+	}
+]
