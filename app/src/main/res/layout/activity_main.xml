@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.psyche.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Question"
+            android:id="@+id/question_num_text"
+            android:textSize="20sp"
+            android:layout_alignParentLeft="true"/>
+
+        <TextView
+            android:id="@+id/question_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="6dp"
+            android:layout_toEndOf="@+id/question_num_text"
+            android:layout_toRightOf="@+id/question_num_text"
+            android:text="1"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="133dp"
+        android:layout_marginBottom="20dp"
+        android:padding="8dp"
+        android:text="question"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/options_rg">
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="never"
+            android:textColor="#000000"
+            android:padding="8dp"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/choice1"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="rarely"
+            android:textColor="#000000"
+            android:padding="8dp"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/choice2"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="sometimes"
+            android:textColor="#000000"
+            android:padding="8dp"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/choice3"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="often"
+            android:textColor="#000000"
+            android:padding="8dp"
+            android:layout_marginBottom="5dp"
+            android:id="@+id/choice4"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="always"
+            android:textColor="#000000"
+            android:padding="8dp"
+            android:id="@+id/choice5"/>
+    </RadioGroup>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+        <Button
+            android:id="@+id/next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#B71C1C"
+            android:padding="8dp"
+            android:text="NEXT"
+            android:layout_alignParentBottom="true"
+            android:textColor="#fff" />
+    </RelativeLayout>
+
+</LinearLayout>

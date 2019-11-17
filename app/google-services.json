@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "226526299576",
+    "firebase_url": "https://psyche-f8426.firebaseio.com",
+    "project_id": "psyche-f8426",
+    "storage_bucket": "psyche-f8426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226526299576:android:f676015d511bd5f705fb4d",
+        "android_client_info": {
+          "package_name": "com.example.psyche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226526299576-2imuvhtoul9rpaltkvn4c8cgnnpq105e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.psyche",
+            "certificate_hash": "b9e76612da38caa9767e1d1e28ed5efaa9e21a0e"
+          }
+        },
+        {
+          "client_id": "226526299576-jb9rud88e0eahdbof60ruguilj0j0gph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbGCuRKN-3GIPsKZeTRK7nf70X5mllhh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226526299576-jb9rud88e0eahdbof60ruguilj0j0gph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
